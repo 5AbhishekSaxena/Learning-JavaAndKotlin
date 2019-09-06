@@ -1,108 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b735063-583d-447f-8288-7f5c8e0ee798" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="0b735063-583d-447f-8288-7f5c8e0ee798" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/BaseConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/LinkedList/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/LinkedList/Implementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/PrefixToInfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/PrefixToPostfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/Tree/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/Tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/AccessingPrivateMembers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/BasicsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/BasicsIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Learning/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Learning/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Learning/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Learning/ShapeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Sroting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/StringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Test.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/leetCode/DynamicProgramming/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/leetCode/DynamicProgramming/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/leetCode/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/leetCode/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning JavaAndKotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JavaAndKotlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/FunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/FunctionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/HellowworldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/HellowworldKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/ContestCodes/SummerLesson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/DateAndTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/PasswordSecurity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/SubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/Testing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/primeNumberOptimized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Kotlin/InfixFunctionsKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Kotlin/InfixFunctionsKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Kotlin/InfixFunctionsKt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Kotlin/InfixFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Kotlin/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/META-INF/Learning JavaAndKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/META-INF/Learning JavaAndKotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/CoinChange_TotalWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/CoinChange_TotalWays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/ContestCodes/SummerLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/ContestCodes/SummerLesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/CountingTheWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/CountingTheWays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/DateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DateAndTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/ModifiedKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/ModifiedKnapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/PasswordSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/PasswordSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/RecursionAndMemoFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/RecursionAndMemoFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/SubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/SubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/primeNumberOptimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/PrimeNumberOptimized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kotlin/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/Functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kotlin/InfixFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/InfixFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kotlin/hellowworld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/hellowworld.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="235" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Kotlin/hellowworld.kt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Kotlin/Functions.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Kotlin/InfixFunctions.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Java/Testing.java" />
-        <option value="$PROJECT_DIR$/src/kotlin/hellowworld.kt" />
-        <option value="$PROJECT_DIR$/src/Java/hellowworld.kt" />
-        <option value="$PROJECT_DIR$/src/Kotlin/hellowworld.kt" />
-        <option value="$PROJECT_DIR$/src/Kotlin/Functions.kt" />
-        <option value="$PROJECT_DIR$/src/Kotlin/InfixFunctions.kt" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Learning-JavaAndKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning-JavaAndKotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning-JavaAndKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning-JavaAndKotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning-JavaAndKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning-JavaAndKotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1OmcCiKNvL7VXA0q7NXLSTFPibn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="/usr/bin/git" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -122,37 +141,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Kotlin.InfixFunctionsKt">
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Implementation">
+    <configuration name="BasicsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.abhisheksaxena.java.GeeksForGeeks.Inheritance.BasicsII" />
       <module name="Learning JavaAndKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.abhisheksaxena.java.GeeksForGeeks.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kotlin.InfixFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicsIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.abhisheksaxena.java.GeeksForGeeks.Inheritance.BasicsIII" />
       <module name="Learning JavaAndKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin.InfixFunctionsKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.abhisheksaxena.java.GeeksForGeeks.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.abhisheksaxena.java.DataStructures.LinkedList.Implementation" />
+      <module name="Learning JavaAndKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.abhisheksaxena.java.DataStructures.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Outer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.abhisheksaxena.java.GeeksForGeeks.Inheritance.Outer" />
+      <module name="Learning JavaAndKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.abhisheksaxena.java.GeeksForGeeks.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.abhisheksaxena.java.GeeksForGeeks.Inheritance.Sample" />
+      <module name="Learning JavaAndKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.abhisheksaxena.java.GeeksForGeeks.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BasicsII" />
+      <item itemvalue="Application.BasicsIII" />
+      <item itemvalue="Application.Sample" />
+      <item itemvalue="Application.Outer" />
+      <item itemvalue="Application.Implementation" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Kotlin.InfixFunctionsKt" />
-        <item itemvalue="Kotlin.FunctionsKt" />
+        <item itemvalue="Application.Implementation" />
+        <item itemvalue="Application.Outer" />
+        <item itemvalue="Application.Sample" />
+        <item itemvalue="Application.BasicsIII" />
+        <item itemvalue="Application.BasicsII" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +234,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559244471980</updated>
+      <workItem from="1564586090352" duration="7416000" />
+      <workItem from="1564601192307" duration="766000" />
+      <workItem from="1564602611729" duration="983000" />
+      <workItem from="1564900853759" duration="4409000" />
+      <workItem from="1565008290834" duration="791000" />
+      <workItem from="1565082762928" duration="1015000" />
+      <workItem from="1565083857428" duration="8000" />
+      <workItem from="1565128268566" duration="1911000" />
+      <workItem from="1565268895656" duration="3289000" />
+      <workItem from="1565613490126" duration="18537000" />
+      <workItem from="1565676705107" duration="2076000" />
+      <workItem from="1565684278765" duration="1166000" />
+      <workItem from="1565694949818" duration="3252000" />
+      <workItem from="1565759659042" duration="592000" />
+      <workItem from="1565773457889" duration="7546000" />
+      <workItem from="1566116899648" duration="601000" />
+      <workItem from="1566375064608" duration="444000" />
+      <workItem from="1567152073568" duration="1123000" />
+      <workItem from="1567153908730" duration="726000" />
     </task>
     <task id="LOCAL-00001" summary="iinit">
       <created>1559630376358</created>
@@ -184,45 +271,8 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" visible="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4989339" visible="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -230,20 +280,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -257,72 +294,9 @@
     <MESSAGE value="iinit" />
     <option name="LAST_COMMIT_MESSAGE" value="iinit" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java/DateAndTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/PasswordSecurity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/primeNumberOptimized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/SubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/Testing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kotlin/hellowworld.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kotlin/Functions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kotlin/InfixFunctions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learning_JavaAndKotlin$InsertAtEnd.ic" NAME="InsertAtEnd Coverage Results" MODIFIED="1565615473735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>in.abhisheksaxena.java.DataStructures.LinkedList.*</FILTER>
+    </SUITE>
   </component>
 </project>
