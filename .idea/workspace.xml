@@ -2,75 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b735063-583d-447f-8288-7f5c8e0ee798" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/BaseConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/LinkedList/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/LinkedList/Implementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/LinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/PrefixToInfix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/PrefixToPostfix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/Tree/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/Tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/AccessingPrivateMembers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/BasicsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/BasicsIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/GeeksForGeeks/Inheritance/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Learning/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Learning/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Learning/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Learning/ShapeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Sroting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/StringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Test.R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/leetCode/DynamicProgramming/MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/leetCode/DynamicProgramming/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/leetCode/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/leetCode/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning JavaAndKotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning JavaAndKotlin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/FunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/FunctionsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/HellowworldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/HellowworldKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/ContestCodes/SummerLesson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/DateAndTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/PasswordSecurity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/SubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/Testing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Java/primeNumberOptimized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Kotlin/InfixFunctionsKt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Kotlin/InfixFunctionsKt$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Kotlin/InfixFunctionsKt$main$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Kotlin/InfixFunctionsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/Kotlin/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/META-INF/Learning JavaAndKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning JavaAndKotlin/META-INF/Learning JavaAndKotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/CoinChange_TotalWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/CoinChange_TotalWays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/ContestCodes/SummerLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/ContestCodes/SummerLesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/CountingTheWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/CountingTheWays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/DateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DateAndTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/ModifiedKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/ModifiedKnapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/PasswordSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/PasswordSecurity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/RecursionAndMemoFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/RecursionAndMemoFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/SubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/SubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/primeNumberOptimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/PrimeNumberOptimized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kotlin/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/Functions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kotlin/InfixFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/InfixFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kotlin/hellowworld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/hellowworld.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/LinkedList/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/java/DataStructures/LinkedList/Functions.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -253,6 +186,7 @@
       <workItem from="1566375064608" duration="444000" />
       <workItem from="1567152073568" duration="1123000" />
       <workItem from="1567153908730" duration="726000" />
+      <workItem from="1567751039898" duration="3730000" />
     </task>
     <task id="LOCAL-00001" summary="iinit">
       <created>1559630376358</created>
@@ -268,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559631168478</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1567751181731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567751181731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +233,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="iinit" />
-    <option name="LAST_COMMIT_MESSAGE" value="iinit" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_JavaAndKotlin$InsertAtEnd.ic" NAME="InsertAtEnd Coverage Results" MODIFIED="1565615473735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

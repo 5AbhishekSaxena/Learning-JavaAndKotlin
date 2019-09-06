@@ -268,26 +268,36 @@ class Functions {
     }
 
     static Node deleteNodesGreaterThanValue(Node head, int value) {
-        while (head != null && head.data > value)
-            head = head.next;
 
-        if (head == null/* || head.data > value*/)
+        while (head != null) {
+            if (head.data > value)
+                head = head.next;
+            else
+                break;
+        }
+
+        if (head == null)
             return null;
 
         Node prev = head;
         Node temp = head.next;
 
         while (temp != null) {
-            println("temp.data: " + temp.data);
+            //println("temp.data: " + temp.data);
             if (temp.data > value) {
-                while(temp != null && temp.data > value)
-                temp = temp.next;
+                while (temp != null) {
+                    if (temp.data > value)
+                        temp = temp.next;
+                    else
+                        break;
+                }
             }
 
-            prev.next = temp;
             if (temp != null) {
+                prev = temp;
                 temp = temp.next;
-            }
+            } else
+                prev.next = null;
         }
         return head;
     }
