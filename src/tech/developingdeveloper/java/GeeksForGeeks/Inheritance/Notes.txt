@@ -1,0 +1,34 @@
+Somethings about inheritance
+
+1-
+    1) Private methods are final.
+    2) Protected members are accessible within a package and
+       inherited classes outside the package.
+    3) We cannot override private methods.
+    4) Protected methods are NOT final.
+
+2-
+    In Java, it is not allowed to do super.super. We can only access Grandparent's members using Parent. For example, the following program works fine.
+
+3- In the above program, b is a reference of Base type and refers to an abject of Derived class.
+   In Java, functions are virtual by default. So the run time polymorphism happens and derived fun() is called.
+
+4-
+    private functions cannot be overridden.
+    Refer class Sample
+
+
+    class Base{
+        private void fun(){
+            Utils.println("Base");
+        }
+    }
+
+    class Derived extends Base{
+        private void fun(){
+            Utils.println("Derived");
+        }
+    }
+
+    Compilation error as fun() as private access tech Base class and it cannot be accessed by its object.
+    Also this proves that the fun() is not overridden tech the derived class
