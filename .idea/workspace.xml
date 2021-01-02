@@ -2,33 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b735063-583d-447f-8288-7f5c8e0ee798" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/AMS.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/Annotations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/CollectionsExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/DataType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/ExtensionFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/LabeledBreaks.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/SpecialClasses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/aquarium/Aquarium.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/aquarium/AquariumFish.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/aquarium/Fish.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/aquarium/GenericAquarium.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/aquarium/InheritanceExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/aquarium/decorations/Decorations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/aquarium/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/aquarium2_advance/Aquarium2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/aquarium2_advance/LambdaFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/arrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/practice/Book.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/practice/Game.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/practice/buildings/BaseBuildingMaterial.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/practice/experiment/Experiment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/practice/spice/Spice.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/practice/spice/SpiceContainer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/practice/spice/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/single_abstract_method/JavaRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/single_abstract_method/RandomClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin/single_abstract_method/SingleAbstractMethod.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/in/abhisheksaxena/Kotlin" />
@@ -247,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567756901841</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1609568662085</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609568662085</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
